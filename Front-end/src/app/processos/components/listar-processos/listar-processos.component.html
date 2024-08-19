@@ -1,0 +1,6 @@
+<div class="table-container">
+  <app-data-table [colunas]="colunas" [dataSource]="dataSource"
+    [insideComponent]="insideComponent" (edit)="onEdit($event)" (delete)="onDelete($event)" (view)="onView($event)"
+    (export)="onExport($event)">
+  </app-data-table>
+</div>

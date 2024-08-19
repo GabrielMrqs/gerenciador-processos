@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{445BBAA6-3F60-43D4-8F74-AC838D5AADBF}|GerenciadorProcessos.Application\\GerenciadorProcessos.Application.csproj|c:\\users\\gabriel\\documents\\stage\\back-end\\gerenciadorprocessos.application\\commandhandlers\\processos\\editarprocessocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445BBAA6-3F60-43D4-8F74-AC838D5AADBF}|GerenciadorProcessos.Application\\GerenciadorProcessos.Application.csproj|solutionrelative:gerenciadorprocessos.application\\commandhandlers\\processos\\editarprocessocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A5B120-4577-445A-BEAB-2A9AF39168A6}|docker-compose.dcproj|c:\\users\\gabriel\\documents\\stage\\back-end\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{45A5B120-4577-445A-BEAB-2A9AF39168A6}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1093E19-6E51-4047-B718-946D5A917FC8}|GerenciadorProcessos.API\\GerenciadorProcessos.API.csproj|c:\\users\\gabriel\\documents\\stage\\back-end\\gerenciadorprocessos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1093E19-6E51-4047-B718-946D5A917FC8}|GerenciadorProcessos.API\\GerenciadorProcessos.API.csproj|solutionrelative:gerenciadorprocessos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A5B120-4577-445A-BEAB-2A9AF39168A6}|docker-compose.dcproj|c:\\users\\gabriel\\documents\\stage\\back-end\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{45A5B120-4577-445A-BEAB-2A9AF39168A6}|docker-compose.dcproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1093E19-6E51-4047-B718-946D5A917FC8}|GerenciadorProcessos.API\\GerenciadorProcessos.API.csproj|c:\\users\\gabriel\\documents\\stage\\back-end\\gerenciadorprocessos.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A1093E19-6E51-4047-B718-946D5A917FC8}|GerenciadorProcessos.API\\GerenciadorProcessos.API.csproj|solutionrelative:gerenciadorprocessos.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BDAAC9-6437-468F-A2A8-7511D42AD7E3}|GerenciadorProcessos.Tests\\GerenciadorProcessos.Tests.csproj|c:\\users\\gabriel\\documents\\stage\\back-end\\gerenciadorprocessos.tests\\processos\\editarprocessocommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BDAAC9-6437-468F-A2A8-7511D42AD7E3}|GerenciadorProcessos.Tests\\GerenciadorProcessos.Tests.csproj|solutionrelative:gerenciadorprocessos.tests\\processos\\editarprocessocommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445BBAA6-3F60-43D4-8F74-AC838D5AADBF}|GerenciadorProcessos.Application\\GerenciadorProcessos.Application.csproj|c:\\users\\gabriel\\documents\\stage\\back-end\\gerenciadorprocessos.application\\commandhandlers\\areas\\deletarareacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445BBAA6-3F60-43D4-8F74-AC838D5AADBF}|GerenciadorProcessos.Application\\GerenciadorProcessos.Application.csproj|solutionrelative:gerenciadorprocessos.application\\commandhandlers\\areas\\deletarareacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BDAAC9-6437-468F-A2A8-7511D42AD7E3}|GerenciadorProcessos.Tests\\GerenciadorProcessos.Tests.csproj|c:\\users\\gabriel\\documents\\stage\\back-end\\gerenciadorprocessos.tests\\areas\\editarareacommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BDAAC9-6437-468F-A2A8-7511D42AD7E3}|GerenciadorProcessos.Tests\\GerenciadorProcessos.Tests.csproj|solutionrelative:gerenciadorprocessos.tests\\areas\\editarareacommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445BBAA6-3F60-43D4-8F74-AC838D5AADBF}|GerenciadorProcessos.Application\\GerenciadorProcessos.Application.csproj|c:\\users\\gabriel\\documents\\stage\\back-end\\gerenciadorprocessos.application\\commandhandlers\\areas\\adicionarareacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445BBAA6-3F60-43D4-8F74-AC838D5AADBF}|GerenciadorProcessos.Application\\GerenciadorProcessos.Application.csproj|solutionrelative:gerenciadorprocessos.application\\commandhandlers\\areas\\adicionarareacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445BBAA6-3F60-43D4-8F74-AC838D5AADBF}|GerenciadorProcessos.Application\\GerenciadorProcessos.Application.csproj|c:\\users\\gabriel\\documents\\stage\\back-end\\gerenciadorprocessos.application\\commandhandlers\\areas\\editarareacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445BBAA6-3F60-43D4-8F74-AC838D5AADBF}|GerenciadorProcessos.Application\\GerenciadorProcessos.Application.csproj|solutionrelative:gerenciadorprocessos.application\\commandhandlers\\areas\\editarareacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BDAAC9-6437-468F-A2A8-7511D42AD7E3}|GerenciadorProcessos.Tests\\GerenciadorProcessos.Tests.csproj|c:\\users\\gabriel\\documents\\stage\\back-end\\gerenciadorprocessos.tests\\areas\\adicionarareacommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BDAAC9-6437-468F-A2A8-7511D42AD7E3}|GerenciadorProcessos.Tests\\GerenciadorProcessos.Tests.csproj|solutionrelative:gerenciadorprocessos.tests\\areas\\adicionarareacommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BDAAC9-6437-468F-A2A8-7511D42AD7E3}|GerenciadorProcessos.Tests\\GerenciadorProcessos.Tests.csproj|c:\\users\\gabriel\\documents\\stage\\back-end\\gerenciadorprocessos.tests\\areas\\deletarareacommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BDAAC9-6437-468F-A2A8-7511D42AD7E3}|GerenciadorProcessos.Tests\\GerenciadorProcessos.Tests.csproj|solutionrelative:gerenciadorprocessos.tests\\areas\\deletarareacommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445BBAA6-3F60-43D4-8F74-AC838D5AADBF}|GerenciadorProcessos.Application\\GerenciadorProcessos.Application.csproj|c:\\users\\gabriel\\documents\\stage\\back-end\\gerenciadorprocessos.application\\commands\\processos\\editarprocessocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445BBAA6-3F60-43D4-8F74-AC838D5AADBF}|GerenciadorProcessos.Application\\GerenciadorProcessos.Application.csproj|solutionrelative:gerenciadorprocessos.application\\commands\\processos\\editarprocessocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BDAAC9-6437-468F-A2A8-7511D42AD7E3}|GerenciadorProcessos.Tests\\GerenciadorProcessos.Tests.csproj|c:\\users\\gabriel\\documents\\stage\\back-end\\gerenciadorprocessos.tests\\processos\\deletarprocessocommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BDAAC9-6437-468F-A2A8-7511D42AD7E3}|GerenciadorProcessos.Tests\\GerenciadorProcessos.Tests.csproj|solutionrelative:gerenciadorprocessos.tests\\processos\\deletarprocessocommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BDAAC9-6437-468F-A2A8-7511D42AD7E3}|GerenciadorProcessos.Tests\\GerenciadorProcessos.Tests.csproj|c:\\users\\gabriel\\documents\\stage\\back-end\\gerenciadorprocessos.tests\\processos\\adicionarprocessocommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BDAAC9-6437-468F-A2A8-7511D42AD7E3}|GerenciadorProcessos.Tests\\GerenciadorProcessos.Tests.csproj|solutionrelative:gerenciadorprocessos.tests\\processos\\adicionarprocessocommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445BBAA6-3F60-43D4-8F74-AC838D5AADBF}|GerenciadorProcessos.Application\\GerenciadorProcessos.Application.csproj|c:\\users\\gabriel\\documents\\stage\\back-end\\gerenciadorprocessos.application\\commandhandlers\\processos\\adicionarprocessocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445BBAA6-3F60-43D4-8F74-AC838D5AADBF}|GerenciadorProcessos.Application\\GerenciadorProcessos.Application.csproj|solutionrelative:gerenciadorprocessos.application\\commandhandlers\\processos\\adicionarprocessocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445BBAA6-3F60-43D4-8F74-AC838D5AADBF}|GerenciadorProcessos.Application\\GerenciadorProcessos.Application.csproj|c:\\users\\gabriel\\documents\\stage\\back-end\\gerenciadorprocessos.application\\commands\\processos\\adicionarprocessocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445BBAA6-3F60-43D4-8F74-AC838D5AADBF}|GerenciadorProcessos.Application\\GerenciadorProcessos.Application.csproj|solutionrelative:gerenciadorprocessos.application\\commands\\processos\\adicionarprocessocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\GerenciadorProcessos.API\\Program.cs",
+              "RelativeDocumentMoniker": "GerenciadorProcessos.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\GerenciadorProcessos.API\\Program.cs",
+              "RelativeToolTip": "GerenciadorProcessos.API\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:23:11.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-08-19T07:10:24.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\GerenciadorProcessos.API\\Dockerfile",
+              "RelativeDocumentMoniker": "GerenciadorProcessos.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\GerenciadorProcessos.API\\Dockerfile",
+              "RelativeToolTip": "GerenciadorProcessos.API\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-19T07:10:16.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeletarAreaCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\GerenciadorProcessos.Tests\\Areas\\DeletarAreaCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "GerenciadorProcessos.Tests\\Areas\\DeletarAreaCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\GerenciadorProcessos.Tests\\Areas\\DeletarAreaCommandHandlerTests.cs",
+              "RelativeToolTip": "GerenciadorProcessos.Tests\\Areas\\DeletarAreaCommandHandlerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:58:47.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeletarAreaCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\GerenciadorProcessos.Application\\CommandHandlers\\Areas\\DeletarAreaCommandHandler.cs",
+              "RelativeDocumentMoniker": "GerenciadorProcessos.Application\\CommandHandlers\\Areas\\DeletarAreaCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\GerenciadorProcessos.Application\\CommandHandlers\\Areas\\DeletarAreaCommandHandler.cs",
+              "RelativeToolTip": "GerenciadorProcessos.Application\\CommandHandlers\\Areas\\DeletarAreaCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:58:30.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditarAreaCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\GerenciadorProcessos.Tests\\Areas\\EditarAreaCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "GerenciadorProcessos.Tests\\Areas\\EditarAreaCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\GerenciadorProcessos.Tests\\Areas\\EditarAreaCommandHandlerTests.cs",
+              "RelativeToolTip": "GerenciadorProcessos.Tests\\Areas\\EditarAreaCommandHandlerTests.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAADwvzMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:57:44.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdicionarAreaCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\GerenciadorProcessos.Application\\CommandHandlers\\Areas\\AdicionarAreaCommandHandler.cs",
+              "RelativeDocumentMoniker": "GerenciadorProcessos.Application\\CommandHandlers\\Areas\\AdicionarAreaCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\GerenciadorProcessos.Application\\CommandHandlers\\Areas\\AdicionarAreaCommandHandler.cs",
+              "RelativeToolTip": "GerenciadorProcessos.Application\\CommandHandlers\\Areas\\AdicionarAreaCommandHandler.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAEwCIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:49:30.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditarAreaCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\GerenciadorProcessos.Application\\CommandHandlers\\Areas\\EditarAreaCommandHandler.cs",
+              "RelativeDocumentMoniker": "GerenciadorProcessos.Application\\CommandHandlers\\Areas\\EditarAreaCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\GerenciadorProcessos.Application\\CommandHandlers\\Areas\\EditarAreaCommandHandler.cs",
+              "RelativeToolTip": "GerenciadorProcessos.Application\\CommandHandlers\\Areas\\EditarAreaCommandHandler.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAvwCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:49:30.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdicionarAreaCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\GerenciadorProcessos.Tests\\Areas\\AdicionarAreaCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "GerenciadorProcessos.Tests\\Areas\\AdicionarAreaCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\GerenciadorProcessos.Tests\\Areas\\AdicionarAreaCommandHandlerTests.cs",
+              "RelativeToolTip": "GerenciadorProcessos.Tests\\Areas\\AdicionarAreaCommandHandlerTests.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAhwGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:51:54.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditarProcessoCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\GerenciadorProcessos.Tests\\Processos\\EditarProcessoCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "GerenciadorProcessos.Tests\\Processos\\EditarProcessoCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\GerenciadorProcessos.Tests\\Processos\\EditarProcessoCommandHandlerTests.cs",
+              "RelativeToolTip": "GerenciadorProcessos.Tests\\Processos\\EditarProcessoCommandHandlerTests.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAASwEwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:46:47.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditarProcessoCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\GerenciadorProcessos.Application\\CommandHandlers\\Processos\\EditarProcessoCommandHandler.cs",
+              "RelativeDocumentMoniker": "GerenciadorProcessos.Application\\CommandHandlers\\Processos\\EditarProcessoCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\GerenciadorProcessos.Application\\CommandHandlers\\Processos\\EditarProcessoCommandHandler.cs",
+              "RelativeToolTip": "GerenciadorProcessos.Application\\CommandHandlers\\Processos\\EditarProcessoCommandHandler.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAmwDIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:46:21.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-19T07:10:23.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditarProcessoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\GerenciadorProcessos.Application\\Commands\\Processos\\EditarProcessoCommand.cs",
+              "RelativeDocumentMoniker": "GerenciadorProcessos.Application\\Commands\\Processos\\EditarProcessoCommand.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\GerenciadorProcessos.Application\\Commands\\Processos\\EditarProcessoCommand.cs",
+              "RelativeToolTip": "GerenciadorProcessos.Application\\Commands\\Processos\\EditarProcessoCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:46:18.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeletarProcessoCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\GerenciadorProcessos.Tests\\Processos\\DeletarProcessoCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "GerenciadorProcessos.Tests\\Processos\\DeletarProcessoCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\GerenciadorProcessos.Tests\\Processos\\DeletarProcessoCommandHandlerTests.cs",
+              "RelativeToolTip": "GerenciadorProcessos.Tests\\Processos\\DeletarProcessoCommandHandlerTests.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:46:13.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdicionarProcessoCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\GerenciadorProcessos.Application\\CommandHandlers\\Processos\\AdicionarProcessoCommandHandler.cs",
+              "RelativeDocumentMoniker": "GerenciadorProcessos.Application\\CommandHandlers\\Processos\\AdicionarProcessoCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\GerenciadorProcessos.Application\\CommandHandlers\\Processos\\AdicionarProcessoCommandHandler.cs",
+              "RelativeToolTip": "GerenciadorProcessos.Application\\CommandHandlers\\Processos\\AdicionarProcessoCommandHandler.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowDgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:43:32.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdicionarProcessoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\GerenciadorProcessos.Application\\Commands\\Processos\\AdicionarProcessoCommand.cs",
+              "RelativeDocumentMoniker": "GerenciadorProcessos.Application\\Commands\\Processos\\AdicionarProcessoCommand.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\GerenciadorProcessos.Application\\Commands\\Processos\\AdicionarProcessoCommand.cs",
+              "RelativeToolTip": "GerenciadorProcessos.Application\\Commands\\Processos\\AdicionarProcessoCommand.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAmwCIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:41:55.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdicionarProcessoCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\GerenciadorProcessos.Tests\\Processos\\AdicionarProcessoCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "GerenciadorProcessos.Tests\\Processos\\AdicionarProcessoCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Documents\\Stage\\Back-end\\GerenciadorProcessos.Tests\\Processos\\AdicionarProcessoCommandHandlerTests.cs",
+              "RelativeToolTip": "GerenciadorProcessos.Tests\\Processos\\AdicionarProcessoCommandHandlerTests.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAcwCEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:41:14.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

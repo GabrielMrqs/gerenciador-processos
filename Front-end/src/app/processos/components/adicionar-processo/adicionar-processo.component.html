@@ -1,0 +1,50 @@
+<div class="page-container">
+  <button mat-raised-button color="primary" (click)="onVoltar()" class="btn-voltar">
+    <mat-icon fontIcon="arrow_back"></mat-icon>
+    Voltar
+  </button>
+  <mat-card class="processo-card">
+    <mat-card-title class="card-title">{{montarTitulo()}}</mat-card-title>
+    <mat-card-content>
+      <form [formGroup]="form" class="processo-form">
+        <mat-form-field appearance="fill" class="full-width">
+          <mat-label>Nome</mat-label>
+          <input matInput formControlName="nome">
+        </mat-form-field>
+
+        <mat-form-field appearance="fill" class="full-width">
+          <mat-label>Descrição</mat-label>
+          <input matInput formControlName="descricao">
+        </mat-form-field>
+
+        <mat-form-field appearance="fill" class="full-width">
+          <mat-label>Tipo</mat-label>
+          <mat-select formControlName="tipo" (selectionChange)="onTipoChange($event)">
+            <mat-option *ngFor="let tipo of tipos" [value]="tipo">
+              {{ formataTipo(tipo) }}
+            </mat-option>
+          </mat-select>
+        </mat-form-field>
+
+        <mat-form-field appearance="fill" class="full-width">
+          <mat-label>Ferramenta</mat-label>
+          <input matInput formControlName="ferramenta">
+        </mat-form-field>
+
+        <mat-form-field appearance="fill" class="full-width">
+          <mat-label>Subprocessos</mat-label>
+          <mat-select formControlName="subprocessos" multiple [compareWith]="compareSubprocessos">
+            <mat-option *ngFor="let sp of subprocessos" [value]="sp">{{ sp.nome }}</mat-option>
+          </mat-select>
+        </mat-form-field>
+
+        <app-tree-view style="height: 250px; background: #eeeeee;"
+          [processos]="this.form.value.subprocessos"></app-tree-view>
+
+        <div class="form-actions">
+          <button mat-raised-button color="primary" (click)="onSubmit()">Salvar</button>
+        </div>
+      </form>
+    </mat-card-content>
+  </mat-card>
+</div>

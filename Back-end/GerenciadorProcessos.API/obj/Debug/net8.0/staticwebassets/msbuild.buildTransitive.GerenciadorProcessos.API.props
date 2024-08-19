@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\GerenciadorProcessos.API.props" />
+</Project>

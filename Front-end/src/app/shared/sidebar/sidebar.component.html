@@ -1,0 +1,19 @@
+<mat-sidenav-container class="sidenav-container">
+    <mat-sidenav mode="side" opened >
+        <mat-nav-list>
+            <mat-list-item routerLink="/areas" routerLinkActive="active">
+                <mat-icon>domain</mat-icon>
+                <span>Áreas</span>
+            </mat-list-item>
+            <mat-list-item routerLink="/processos" routerLinkActive="active">
+                <mat-icon>workflow</mat-icon>
+                <span>Processos</span>
+            </mat-list-item>
+        </mat-nav-list>
+    </mat-sidenav>
+
+
+    <mat-sidenav-content class="content">
+        <router-outlet></router-outlet>
+    </mat-sidenav-content>
+</mat-sidenav-container>

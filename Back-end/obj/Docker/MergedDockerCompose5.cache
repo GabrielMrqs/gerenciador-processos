@@ -1,0 +1,41 @@
+name: dockercompose13888579607277439763
+services:
+  gerenciadorprocessos.api:
+    build:
+      context: C:\Users\Gabriel\Documents\Stage\Back-end
+      dockerfile: GerenciadorProcessos.API/Dockerfile
+    container_name: gerenciadorprocessos.api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+    image: gerenciadorprocessosapi
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "9000"
+        protocol: tcp
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\Gabriel\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\Gabriel\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+networks:
+  default:
+    name: dockercompose13888579607277439763_default

@@ -1,0 +1,51 @@
+.example-tree {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #eeeeee;
+    border-radius: 8px;
+    padding: 10px;
+
+    mat-tree-node {
+        display: flex;
+        align-items: center;
+        font-size: 16px;
+        font-weight: 500;
+        color: #333;
+
+        &:hover {
+            background-color: #e0e0e0;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        button.mat-icon-button {
+            margin-right: 8px;
+            color: #1976d2;
+
+            &:hover {
+                color: #0d47a1;
+            }
+        }
+
+        .mat-icon {
+            transition: transform 0.2s ease-in-out;
+        }
+
+        &[aria-expanded="true"] .mat-icon {
+            transform: rotate(90deg);
+        }
+    }
+
+    mat-tree-node[aria-expanded="true"] {
+        background-color: #e3f2fd;
+    }
+}
+
+.node-content {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    .remove-button {
+        margin-left: auto;
+    }
+}

@@ -1,0 +1,30 @@
+.dialog-title {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 16px;
+    color: #3f51b5;
+    /* Cor primária */
+}
+
+.dialog-content {
+    font-size: 16px;
+    color: #666;
+    text-align: center;
+    margin-bottom: 24px;
+    /* Espaçamento entre conteúdo e botões */
+}
+
+.dialog-actions {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 24px;
+}
+
+.confirm-button {
+    min-width: 100px;
+}
+
+.cancel-button {
+    min-width: 100px;
+}

@@ -1,0 +1,8 @@
+<h1 mat-dialog-title class="dialog-title">{{ data }}</h1>
+<div mat-dialog-content class="dialog-content">
+    Esta ação não poderá ser desfeita.
+</div>
+<div mat-dialog-actions align="center" class="dialog-actions">
+    <button mat-raised-button color="primary" (click)="onConfirm(true)" class="confirm-button">Sim</button>
+    <button mat-raised-button color="warn" (click)="onConfirm(false)" cdkFocusInitial class="cancel-button">Não</button>
+</div>

@@ -1,0 +1,15 @@
+<h1 mat-dialog-title>Alguns erros foram encontrados!</h1>
+<div mat-dialog-content>
+    <div *ngIf="ehArray; else erroUnico">
+        <p *ngFor="let erro of data">
+            {{erro}}
+        </p>
+    </div>
+</div>
+<div mat-dialog-actions>
+    <button mat-button mat-dialog-close cdkFocusInitial>Fechar</button>
+</div>
+
+<ng-template #erroUnico>
+    {{data}}
+</ng-template>

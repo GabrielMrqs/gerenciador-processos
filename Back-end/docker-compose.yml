@@ -1,0 +1,57 @@
+version: '3.9'
+
+services:
+  gerenciadorprocessos.api:
+    container_name: gerenciadorprocessos.api
+    image: ${DOCKER_REGISTRY-}gerenciadorprocessosapi
+    build:
+      context: .
+      dockerfile: GerenciadorProcessos.API/Dockerfile
+    ports:
+      - 9000:80
+    environment:
+      CONNECTIONSTRINGS__POSTGRES: "User ID=postgres;Password=postgres;Server=postgres;Port=5432;Database=stage;"
+      ASPNETCORE_URLS: "http://+:80"
+    depends_on:
+      - postgres
+
+  gerenciadorprocessos.front:
+    container_name: gerenciadorprocessos.front
+    image: gerenciadorprocessos-front
+    build:
+      context: ../Front-end
+      dockerfile: Dockerfile
+      args:
+        - API_URL=http://localhost:9000
+    ports:
+      - 4200:4000
+
+  postgres:
+    image: postgres
+    container_name: postgres
+    ports:
+      - 5432:5432
+    environment:
+      POSTGRES_DB: postgres
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    volumes:
+      - postgres:/var/lib/postgresql/data
+  
+  pgadmin:
+    image: dpage/pgadmin4
+    container_name: pgadmin
+    restart: always
+    ports:
+      - "8888:80"
+    environment:
+      PGADMIN_DEFAULT_EMAIL: pgadmin@pgadmin.com
+      PGADMIN_DEFAULT_PASSWORD: pgadmin
+    volumes:
+      - pgadmin:/var/lib/pgadmin
+    depends_on:
+      - postgres
+
+volumes:
+  postgres:
+  pgadmin:

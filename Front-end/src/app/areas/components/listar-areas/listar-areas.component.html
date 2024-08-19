@@ -1,0 +1,5 @@
+<div class="table-container">
+  <app-data-table [colunas]="colunas" [dataSource]="dataSource" (edit)="onEdit($event)"
+    (delete)="onDelete($event)" (view)="onView($event)">
+  </app-data-table>
+</div>
